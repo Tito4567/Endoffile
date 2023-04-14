@@ -16,7 +16,6 @@ public class Test
 		do 
 		{
 			System.out.print(i+" ");
-						
 			length = (scan.nextLine());
 			System.out.println(length);
 			counter = (length.substring(0).contains("end-of-file.") == false);
